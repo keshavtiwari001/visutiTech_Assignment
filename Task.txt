@@ -1,0 +1,11 @@
+Assignment :
+Build a RESTful API
+Objective: Develop a simple RESTful API that allows users to perform CRUD (Create, Read, Update, Delete) operations on a resource, such as users, products, or tasks.
+
+Requirements:
+
+Implement routes for creating, reading, updating, and deleting resources.
+Use Express.js as the web framework.
+Implement basic input validation.
+Store data in a simple in-memory data structure (like an array or object) or use a database .
+Include error handling and return appropriate
